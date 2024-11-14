@@ -1,6 +1,6 @@
-# Learnopia - Learning Management System (LMS)
+# Arfa LMS - Learning Management System (LMS)
 
-Welcome to **Learnopia**, an Learning Management System (LMS) built using **[Laravel](https://laravel.com/)** Blade, **[Bootstrap 5](https://getbootstrap.com/)** and other related tools. **Learnopia** is designed to provide a robust platform for managing and delivering online courses and educational content. This `README` file will guide you through the installation process, usage, important commands used in the project, and additional resources used, such as the **[AdminKit](https://adminkit.io/)** Admin panel.
+Welcome to **lms**, an Learning Management System (LMS) built using **[Laravel](https://laravel.com/)** Blade, **[Bootstrap 5](https://getbootstrap.com/)** and other related tools. **arfalms** is designed to provide a robust platform for managing and delivering online courses and educational content. This `README` file will guide you through the installation process, usage, important commands used in the project, and additional resources used, such as the **[AdminKit](https://adminkit.io/)** Admin panel.
 
 
 # Table of Contents
